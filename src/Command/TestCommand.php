@@ -1,6 +1,6 @@
 <?php
 
-namespace Tuto\TestBundle\Command;
+namespace Cadotinfo\CrudBundle\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;

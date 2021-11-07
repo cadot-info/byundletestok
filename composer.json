@@ -1,5 +1,5 @@
 {
-    "name": "cadot.info/testbundleok",
+    "name": "cadot.info/CrudBundleok",
     "description": "Library for get a array links of website for testing",
     "type": "library",
     "require": {
@@ -14,7 +14,7 @@
     "license": "MIT",
     "autoload": {
       "psr-4": {
-        "Tuto\\TestBundle\\": "src/"
+        "Cadotinfo\\CrudBundle\\": "src/"
       }
     },
     "authors": [
